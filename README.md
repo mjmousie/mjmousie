@@ -37,6 +37,17 @@ View [Live Demo](https://autodealer-dev.web.app/).
 
 ---
 
+### Mooses Room
+A mobile-first card game app featuring three casino-style games built with React, TypeScript, and Vite.
+
+Check out the [GitHub Repository](https://github.com/mjmousie/MoosesRoom).
+
+View [Live Demo](https://moosesroom.com).
+
+`React` `TypeScript` `Vite` `Card Games` `Casino`
+
+---
+
 ## Contact
 
 **mjmousie@gmail.com** — always open to interesting projects
