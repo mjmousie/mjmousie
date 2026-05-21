@@ -11,30 +11,30 @@ Frontend developer focused on React — building dashboards, data-driven apps, a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 OSCAR
+### OSCAR
 CRM dashboard for Outscraper Google Business Profile data — built for businesses managing their Google presence at scale.
 
 `React` `Firebase` `Tailwind CSS` `CRM`
 
 ---
 
-### 🚗 Auto Dealer React
+### Auto Dealer React
 Performance-optimized dealership website with admin dashboard, inventory management, and Lighthouse 90+ scores.
 
 `React` `Admin UI` `Performance`
 
 ---
 
-### 🎮 Trivia App
+### Trivia App
 Multiplayer trivia game with Last Man Standing, Tic Tac Toe, and Hangman modes. Ticket economy with Firebase backend.
 
 `React Native` `Firebase` `Multiplayer`
 
 ---
 
-## 📈 Stats
+## Stats
 
 | Projects Shipped | Primary Stack | Status |
 |:---:|:---:|:---:|
@@ -42,12 +42,12 @@ Multiplayer trivia game with Last Man Standing, Tic Tac Toe, and Hangman modes. 
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 Node.js · Advanced Firebase · App performance optimization
 
 ---
 
-## 📫 Contact
+## Contact
 
 **mjmousie@gmail.com** — always open to interesting projects
