@@ -37,20 +37,6 @@ View [Live Demo](https://autodealer-dev.web.app/).
 
 ---
 
-## Stats
-
-| Projects Shipped | Primary Stack | Status |
-|:---:|:---:|:---:|
-| 4+ | React | Open to work |
-
----
-
-## Currently Learning
-
-Node.js · Advanced Firebase · App performance optimization
-
----
-
 ## Contact
 
 **mjmousie@gmail.com** — always open to interesting projects
