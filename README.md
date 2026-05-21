@@ -15,6 +15,7 @@ Frontend developer focused on React — building dashboards, data-driven apps, a
 
 ### OSCAR
 CRM dashboard for Outscraper Google Business Profile data — built for businesses managing their Google presence at scale.
+
 Check out the [GitHub Repository](https://github.com/mjmousie/oscar-crm).
 
 `React` `Firebase` `Tailwind CSS` `CRM`
@@ -23,7 +24,9 @@ Check out the [GitHub Repository](https://github.com/mjmousie/oscar-crm).
 
 ### Auto Dealer React
 Performance-optimized dealership website with admin dashboard, inventory management, and Lighthouse 90+ scores.
+
 Check out the [GitHub Repository](https://github.com/mjmousie/AutoDealerReact).
+
 View [Live Demo](https://autodealer-dev.web.app/).
 
 `React` `Admin UI` `Performance` `Auto Dealership`
