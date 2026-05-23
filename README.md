@@ -31,7 +31,7 @@ Performance-optimized dealership website with admin dashboard, inventory managem
 
 Check out the [GitHub Repository](https://github.com/mjmousie/AutoDealerReact).
 
-View [Live Demo](https://autodealer-dev.web.app/).
+View [Live Demo](https://auto.mikemousie.com/).
 
 `React` `Admin UI` `Performance` `Auto Dealership`
 
