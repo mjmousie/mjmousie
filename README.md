@@ -1,6 +1,5 @@
-# Hey, I'm Michael 👋
 
-Frontend developer focused on React web applications, including dashboards, data-driven apps, and full-featured web platforms. Open to full-time roles and freelance contracts.
+Full stack developer focused on React web applications, including dashboards, data-driven apps, and full-featured web platforms. Open to full-time roles and freelance contracts.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
